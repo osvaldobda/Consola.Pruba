@@ -13,7 +13,7 @@ namespace ConsolaPrueba.GITHUB
             Console.WriteLine("Hola esto es una preuba para GITHUB");
             Console.ReadLine();
 
-            Console.WriteLine("Este es un mensaje nuevo");
+            Console.WriteLine("Este es un mensaje para mejora por el analista");
         }
 
      
