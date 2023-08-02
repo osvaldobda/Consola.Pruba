@@ -1,0 +1,8 @@
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\bin\Debug\ConsolaPrueba.GITHUB.exe.config
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\bin\Debug\ConsolaPrueba.GITHUB.exe
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\bin\Debug\ConsolaPrueba.GITHUB.pdb
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\obj\Debug\ConsolaPrueba.GITHUB.csproj.AssemblyReference.cache
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\obj\Debug\ConsolaPrueba.GITHUB.csproj.SuggestedBindingRedirects.cache
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\obj\Debug\ConsolaPrueba.GITHUB.csproj.CoreCompileInputs.cache
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\obj\Debug\ConsolaPrueba.GITHUB.exe
+C:\Users\ocuevas\source\repos\ConsolaPrueba.GITHUB\ConsolaPrueba.GITHUB\obj\Debug\ConsolaPrueba.GITHUB.pdb
