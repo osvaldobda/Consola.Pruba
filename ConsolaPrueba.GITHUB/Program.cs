@@ -12,12 +12,22 @@ namespace ConsolaPrueba.GITHUB
         {
             Console.WriteLine("Hola esto es una preuba para GITHUB");
             Console.WriteLine("Esto es un mensaje nuevo");
+            Console.WriteLine("Prueba efectuada correctamente");
+
             Console.ReadLine();
 
-            Console.WriteLine("Prueba efectuada correctamente");
+          
         }
 
      
+        static void Mensaje () {
+
+            Console.WriteLine("Hola esto es un mensaje destacdo");
+              Console.WriteLine();
+        }
+
+
+}
 
 
 
@@ -25,7 +35,3 @@ namespace ConsolaPrueba.GITHUB
 
 
 
-}
-
-
-}
