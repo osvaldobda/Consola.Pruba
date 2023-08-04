@@ -11,7 +11,7 @@ namespace ConsolaPrueba.GITHUB
         static void Main(string[] args)
         {
             Console.WriteLine("Hola esto es una preuba para GITHUB");
-            Console.WriteLine("Esto es un mensaje nuevo");
+            Console.WriteLine("Esto es un mensaje nuevo, mensaje de prueba para ser implementado");
             Console.WriteLine("Prueba efectuada correctamente");
 
             Console.ReadLine();
